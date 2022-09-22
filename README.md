@@ -1,10 +1,10 @@
-# Introduction for <reponame>
+# Introduction for template-CD-dockerhub
 
 --INSERT AN INTRODUCTION FOR YOUR SCRIPT/APP; EXPAINING WHAT IS THE PURPOSE OF YOUR APP AND ITS BENIFITS--
 ### Dockerhub repo information
 --INSERT THE REPO TAG INFO AND ANY OTHER INFORMATION ON HOW TO PULL THE DOCKER IMAGE--
 
-## Running <reponame> on Docker locally
+## Running template-CD-dockerhub on Docker locally
 
 ### Prerequisites
 
